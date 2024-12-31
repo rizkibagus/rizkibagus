@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizki Bagus</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRodnc1M2xhbHQ4dXIwbTBuZ2Z3MWp2eHI1bHZvaXMyZm80MW13ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp"">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRodnc1M2xhbHQ4dXIwbTBuZ2Z3MWp2eHI1bHZvaXMyZm80MW13ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp"">
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, Node js, MongoDB**
 
